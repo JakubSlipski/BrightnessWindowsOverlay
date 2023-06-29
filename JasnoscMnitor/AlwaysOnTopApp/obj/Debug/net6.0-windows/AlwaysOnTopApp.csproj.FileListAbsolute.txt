@@ -1,0 +1,17 @@
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\bin\Debug\net6.0-windows\AlwaysOnTopApp.exe
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\bin\Debug\net6.0-windows\AlwaysOnTopApp.deps.json
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\bin\Debug\net6.0-windows\AlwaysOnTopApp.runtimeconfig.json
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\bin\Debug\net6.0-windows\AlwaysOnTopApp.dll
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\bin\Debug\net6.0-windows\AlwaysOnTopApp.pdb
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\obj\Debug\net6.0-windows\AlwaysOnTopApp.csproj.AssemblyReference.cache
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\obj\Debug\net6.0-windows\AlwaysOnTopApp.Form1.resources
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\obj\Debug\net6.0-windows\AlwaysOnTopApp.csproj.GenerateResource.cache
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\obj\Debug\net6.0-windows\AlwaysOnTopApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\obj\Debug\net6.0-windows\AlwaysOnTopApp.AssemblyInfoInputs.cache
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\obj\Debug\net6.0-windows\AlwaysOnTopApp.AssemblyInfo.cs
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\obj\Debug\net6.0-windows\AlwaysOnTopApp.csproj.CoreCompileInputs.cache
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\obj\Debug\net6.0-windows\AlwaysOnTopApp.dll
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\obj\Debug\net6.0-windows\refint\AlwaysOnTopApp.dll
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\obj\Debug\net6.0-windows\AlwaysOnTopApp.pdb
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\obj\Debug\net6.0-windows\AlwaysOnTopApp.genruntimeconfig.cache
+E:\DEV project\C#\JasnoscMnitor\AlwaysOnTopApp\obj\Debug\net6.0-windows\ref\AlwaysOnTopApp.dll
